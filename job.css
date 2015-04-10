@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+body
+{
+	background-color: #E9DBCC;
+	font-family: "Trebuchet MS";
+	color: #0A141F;
+}
+h1
+{
+	color: #0A141F;
+}
+p
+{
+	padding: 10px;
+}
+div
+{
+	float:left;
+	clear:left;
+	border-radius: 50%;
+	width: 70px;
+	height: 70px; 
+	font-size: 10px;
+	padding: 0px 0px 0px 0px;
+	margin: 5px 50px 10px 1px;
+	text-align:center;
+	vertical-align:middle;
+}
+#div1
+{	
+	background-color: #7E9FBF;
+}
+#div1:hover
+{
+	content:url(http://41.media.tumblr.com/aea878d0c97f6ba4f62c9939eb6bf189/tumblr_n055ify5Yd1qlqh85o1_1280.jpg);
+	background-size: cover;
+}
+#div2
+{
+	background-color: #8E8EE6;
+}
+#div2:hover
+{
+	content:url(http://36.media.tumblr.com/ec726f515e18982f156cc30cffd57248/tumblr_mldpj2VInS1qlqh85o4_1280.jpg);
+	background-size: cover;
+}
+#div3
+{
+	background-color: #5E9A9A;
+}
+#div3:hover
+{
+	content:url(http://41.media.tumblr.com/75f55e78870dde18f5886b6f053bdbd8/tumblr_mlxqv6qiIi1qlqh85o5_1280.jpg);
+	background-size: cover;
+}
+#div4
+{
+	background-color: #7E9FBF;
+}
+#div4:hover
+{
+	content:url(http://41.media.tumblr.com/dce02914f0657fefb6910802769d6e90/tumblr_nko87v0Dxk1qlqh85o1_1280.jpg);
+	background-size: cover;
+}
+#div5
+{
+	background-color: #8E8EE6;
+}
+#div5:hover
+{
+	content:url(http://36.media.tumblr.com/f7f7488c63da4a370022021ba7d84500/tumblr_ni9bszaSOv1qlqh85o1_1280.jpg);
+	background-size: cover;
+}
+#div6
+{
+	background-color: #5E9A9A;
+}
+#div6:hover
+{
+	content:url(http://40.media.tumblr.com/7431e57577da985c6e4aa8edf5022485/tumblr_mkx6yazxXG1qlqh85o1_1280.jpg);
+	background-size: cover;
+}
+a
+{
+	color: white;
+	opacity: 0.5;
+	font-weight: bold;
+	text-decoration: none;
+}
