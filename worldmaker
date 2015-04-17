@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>World Maker</title>
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="brand.css">
+	</head>
+	
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top">
+	      <div class="container">
+	        <div class="navbar-header">
+	          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	            <span class="sr-only">Toggle navigation</span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </button>
+	          <a class="navbar-brand" href="#">WorldMaker</a>
+	        </div>
+	        <div id="navbar" class="navbar-collapse collapse">
+	          
+	          <ul class="nav navbar-nav navbar-right">
+	             <li><a href="#features">Features</a></li>
+				<li><a href="#expansion">Expansions</a></li>
+	            <li class=""><a href="#faq">FAQ</a></li>
+	          </ul>
+			  
+	        </div>
+	      </div>
+	    </nav>
+		<div id="hero">
+		<div class="container">
+			
+				<div class="row">
+					
+						<h3 class="text-center">World Maker</h3>
+						<p id="subtitle" class="lead text-center">Worldbuilding, Character Creation, and RP all in one place!</p>
+				</div>
+						
+						
+				<div class="row">
+						<div class="col-sm-6">
+						<img class="img-responsive" src="http://40.media.tumblr.com/4779886301af850bbf6b8b3451ddd858/tumblr_mtd5s4QbJp1qlqh85o1_1280.jpg">
+						</div>
+					<div class="col-sm-6">
+						<p id="hard-sell" class="lead">World Maker tracks information on setting and character for you. Answer more questions to build a complex characters or worlds, or use your questions and filters to find other writers to talk with!</p>
+						<a href="#" class="btn btn-lg btn-blue">It's Free!</a></p>
+						</div>
+				</div>
+			</div>		
+		</div>
+		<div id="features">
+			<div class="row">
+				<div class="col-md-4 col-xs-6">
+					<p class="text-center"><i class="fa fa-moon-o feature"></i></p>
+					<h3>Build Your World</h3>
+					<p>With over 3000 questions, World Maker will help you think deeply about everything from architecture to wildlife to children's toys.</p>
+				</div>
+				<div class="col-md-4 col-xs-6">
+					<p class="text-center"><i class="fa fa-leaf feature"></i></p>
+					<h3>An Organic Approach to Character</h3>
+					<p>We blend pure silver into our socks to prevent stink from accumulating. The silver never washes away and will perform for the life of the product, keeping your socks fresh and clean at all times.</p>
+				</div>
+				<div class="col-md-4 col-xs-6">
+					<p class="text-center"><i class="fa fa-glass feature"></i></p>
+					<h3>Looking for RP partners? Collaborators?</h3>
+					<p>World Maker lets you search all sorts of ways to find other writers and world makers!</p>
+				</div>
+			</div>
+		</div>
+		
+			
+		<div id="technology">
+			<div class="row">
+					<div class="row">
+						<h2 class="text-center">Expansions</h2>
+					</div>
+					<div class="row">
+						<div class="col-sm-4">
+							<img src="http://dragcave.net/images/NwB8.png" class="center-block img-responsive">
+							<p class="text-center lead features">Magic Expansion</p>
+						</div>
+						<div class="col-sm-4">
+							<img src="http://dragcave.net/images/ICZx.png" class="center-block img-responsive">
+							<p class="text-center lead features">Horror Expansion</p>
+						</div>
+						<div class="col-sm-4">
+							<img src="http://dragcave.net/images/3JVz.png" class="center-block img-responsive">
+							<p class="text-center lead features">Art Expansion</p>
+						</div>
+					</div>
+			</div>		
+		</div>
+			
+		<div id="faq">
+			<div class="row">
+					<div class="col-sm-4">
+						<h2 class="pull-right"><em>FAQ</em><br><small>You've got questions, we've got answers</small></h2>
+					</div>
+					<div class="col-sm-8">
+						<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+						  <div class="panel panel-default">
+						    <div class="panel-heading" role="tab" id="headingOne">
+						      <h4 class="panel-title">
+						        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">My friend has more questions than me. Why?
+						        </a>
+						      </h4>
+						    </div>
+						    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+						      <div class="panel-body">
+						        <p>Check to see if you've hidden any of your questions.</p>
+								<p>Otherwise, your friend probably has an expansion you don't. You can check which sets they have on their profile.</p>
+						      </div>
+						    </div>
+						  </div>
+						  <div class="panel panel-default">
+						    <div class="panel-heading" role="tab" id="headingTwo">
+						      <h4 class="panel-title">
+						        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						          Can I set up more than one world?
+						        </a>
+						      </h4>
+						    </div>
+						    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+						      <div class="panel-body">
+								You can make one world and up to three cultures on a free account, or unlock a paid account.
+						      </div>
+						    </div>
+						  </div>
+						  <div class="panel panel-default">
+						    <div class="panel-heading" role="tab" id="headingThree">
+						      <h4 class="panel-title">
+						        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						          When will I see the RP feature?
+						        </a>
+						      </h4>
+						    </div>
+						    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+						      <div class="panel-body">
+						       The on site RP feature is in progress. We're hoping to have it ready by Fall, 2015!
+						      </div>
+						    </div>
+						  </div>
+						</div>
+					</div>
+			</div>	
+		</div><!-- #faq -->
+		
+	<footer class="footer">
+		   	<h5>Want more info?<br><small>Follow us</small></h5>
+			<p><a href="#" class="btn btn-blue"><i class="fa fa-twitter"></i> On Twitter</a></p>
+			<p><a href="#" class="btn btn-blue"><i class="fa fa-facebook"></i> On Facebook</a></p>
+		   
+		   	<h5>Need Help?<br><small>Call us!</small></h5>
+			<p><a href="mailto:&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x79;&#x61;&#x74;&#x68;&#x6C;&#x65;&#x74;&#x69;&#x63;&#x73;&#x2E;&#x63;&#x6F;&#x6D;">email@daisy.edu</a></p>
+		  
+	   	<div class="row copyright">
+	   		<p class="muted text-center small">&copy; 2015 Blob McGlorp</p>
+		
+      </div>
+	  </div>
+    </footer>
+		    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		
+	</body>
+
+
+</html>
+
