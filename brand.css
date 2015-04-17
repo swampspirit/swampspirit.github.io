@@ -1,0 +1,114 @@
+body
+{
+	font-family: seirf;
+}
+
+.navbar-default 
+{
+	background-color:#31475E;
+	border-color:#FFF;
+}
+
+.navbar-default .navbar-brand 
+{
+	color: #FFF;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: #FFF;}
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FFF; }
+i.feature {	font-size:50px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #0099CC;
+  background-color: #FFF;
+}
+
+.btn-blue {
+	background-color:#F5EBFF;
+	border-color:#31475E;
+	color:#31475E;
+}
+
+.form-control 
+{
+	border: 1px solid #FF5919;
+}
+
+.footer .btn-default {
+  color: #F5EBFF;
+  background-color: #0099CC;
+  border-color: #0099CC;
+}
+
+#features 
+{
+	padding: 100px;
+	background-color: #31475E;
+	color:#FFF;
+}
+
+
+#hero {background-color:#A5ABB7;color:#31475E;padding:50px 0px 80px 0px;}
+#hero h2 {font-size:5em;margin-bottom:.25em;}
+#hero p#subtitle {font-size:2.5em;margin-bottom:.5em;}
+
+#hero p#hard-sell {margin-top:30px;font-size:.75em;}
+
+#technology {
+	padding: 50px 20px 50px 20px;
+	background-color:#FFF;
+	color:#31475E;
+}
+
+#technology h2 {
+	font-size: 3.5em;
+  	line-height: 1.5em;
+}
+
+#technology #subtitle {margin-bottom:24px;}
+
+#technology img {
+	background-color:#FFF;
+
+}
+
+#technology .features {margin-top:24px;}
+
+#action {
+	padding:75px 0px;
+	background-color:#4C61FF;
+}
+
+#action h2 {text-align:right;color:#FFF;}
+
+#action .input-group {margin-top:19px;}
+
+#action .btn-default {border:1px solid #31475E;color:#31475E;}
+
+#faq {padding: 50px 0px 50px 0px;}
+#faq h2 {text-align:right;}
+
+#faq .panel-default>.panel-heading {
+  color: #31475E;
+  background-color: #FFF;
+  border-color: #31475E;
+}
+
+#faq .panel-default {
+  border-color: #31475E;
+}
+
+
+.footer {
+	background-color:#595959;
+	color:#FFF;
+	padding:30px 0px;
+}
+
+.footer small {color:#FFF;}
+
+.footer a {color:#31475E;}
+
+.footer .copyright {padding:25px 0 0 0px;}
